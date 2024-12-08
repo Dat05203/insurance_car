@@ -1,0 +1,3 @@
+Link Dashboard (powerBI): https://app.powerbi.com/groups/me/reports/35ba7674-3005-4d52-848a-a12001c02d8d/ReportSection?experience=power-bi
+Mô tả: 
+- Bộ dữ liệu được cung cấp là bộ dữ liệu giả định từ một ngân hàng ở Mỹ. Ngân hàng này cung cấp dịch vụ bảo hiểm cho ô tô. Ngân hàng có dữ liệu về khách hàng tiềm năng và họ thường xuyên tổ chức các chiến dịch quảng cáo để thu hút khách hàng mới. Nhân viên ngân hàng sẽ liên hệ với khách hàng tiềm năng qua điện thoại để quảng cáo về bảo hiểm ô tô của họ. Trong bộ dữ liệu này, chúng ta có các thông tin chung về khách hàng (tuổi, công việc, v.v.) cũng như thông tin cụ thể về chiến dịch bán bảo hiểm hiện tại (thông tin liên lạc, ngày liên hệ) và các chiến dịch trước đó
